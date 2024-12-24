@@ -1,0 +1,31 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.jpg",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "gameover",
+			"path": "./assets/images/gameover.jpg",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "victory",
+			"path": "./assets/images/victory.jpg",
+			"width": 1280,
+			"height": 720
+		}
+	],
+	"fonts": [
+		{
+			"name": "Font",
+			"path": "./assets/fonts/font.ttf"
+		}
+	],
+	"sounds": [
+		
+	]
+}

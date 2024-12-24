@@ -1,0 +1,50 @@
+[
+    {
+        "name": "player_walk",
+        "path": "./assets/images/player_walk.png",
+        "width": 64,
+        "height": 128
+    },
+    {
+        "name": "player_sword",
+        "path": "./assets/images/player_sword.png",
+        "width": 128,
+        "height": 128
+    },
+    {
+        "name": "enemies",
+        "path": "./assets/images/enemies.png",
+        "width": 192,
+        "height": 128
+    },
+    {
+        "name": "hearts",
+        "path": "./assets/images/hearts.png",
+        "width": 96,
+        "height": 16
+    },
+    {
+        "name": "switches",
+        "path": "./assets/images/switches.png",
+        "width": 32,
+        "height": 18
+    },
+    {
+        "name": "pots",
+        "path": "./assets/images/pots.png",
+        "width": 128,
+        "height": 128
+    },
+    {
+        "name": "player_lift",
+        "path": "./assets/images/player_lift.png",
+        "width": 48,
+        "height": 128
+    },
+    {
+        "name": "player_carry",
+        "path": "./assets/images/player_carry.png",
+        "width": 64,
+        "height": 128
+    }
+]

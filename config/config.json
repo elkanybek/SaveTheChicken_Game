@@ -1,0 +1,128 @@
+{
+	"images": [
+		{
+			"name": "background",
+			"path": "./assets/images/background.jpg",
+			"width": 1280,
+			"height": 720
+		},
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 96,
+			"height": 368
+		},
+		{
+			"name": "player",
+			"path": "./assets/images/player_sprites.png",
+			"width": 192,
+			"height": 320
+		},
+		{
+			"name": "player_carry",
+			"path": "./assets/images/carry_player_sprites.png",
+			"width": 192,
+			"height": 320
+		},
+		{
+			"name": "chicken",
+			"path": "./assets/images/chicken_sprites.png",
+			"width": 64,
+			"height": 64
+		},
+		{
+			"name": "slime",
+			"path": "./assets/images/slime_sprites.png",
+			"width": 192,
+			"height": 96
+		},
+		{
+			"name": "skeleton",
+			"path": "./assets/images/skeleton_sprites.png",
+			"width": 192,
+			"height": 320
+		},
+		{
+			"name": "objects",
+			"path": "./assets/images/dungeon_object_sprites.png",
+			"width": 192,
+			"height": 256
+		},
+		{
+			"name": "objects2",
+			"path": "./assets/images/Outdoor_Decor_Free.png",
+			"width": 112,
+			"height": 192
+		},
+		{
+			"name": "gameover",
+			"path": "./assets/images/gameover.jpg",
+			"width": 612,
+			"height": 344
+		},
+		{
+			"name": "victory",
+			"path": "./assets/images/victory.jpg",
+			"width": 650,
+			"height": 426
+		}
+	],
+	"fonts": [
+		{
+			"name": "Zelda",
+			"path": "./assets/fonts/Zelda.otf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "door",
+			"path": "./assets/sounds/door.wav",
+			"size": 4,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-enemy",
+			"path": "./assets/sounds/entity-hit.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "hit-player",
+			"path": "./assets/sounds/entity-hit.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "music",
+			"path": "./assets/sounds/game-music.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "title-music",
+			"path": "./assets/sounds/title-music.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "powerup",
+			"path": "./assets/sounds/powerup.mp3",
+			"size": 1,
+			"volume": 1
+		},
+		{
+			"name": "sword",
+			"path": "./assets/sounds/sword.wav",
+			"size": 5,
+			"volume": 0.1
+		},
+		{
+			"name": "chest",
+			"path": "./assets/sounds/chest-sound.mp3",
+			"size": 1,
+			"volume": 0.1
+		}
+	]
+}
